@@ -1,0 +1,23 @@
+Hi all
+This is the group chat created for the ongoing issue of 
+NOC has opened the P1 Ticket NOC-
+Kindly add any other participants necessary
+
+NOC will mark the incident as resolved, thanks everyone for the quick turn around.
+
+P1: NOC- | title | P1 - Initial Notification
+P1: TBD | title | P1 - Initial Notification
+P1: NOC- | title | P1 - Retrospective Resolve Notification
+
+NOC found that due to which
+OSA reported the issue that
+NOC and PSO PE teams are currently looking into the issue.
+More updates to follow in the next 30 minutes.
+NOC will open a problem ticket to track the long term fix of the issue.
+
+0 Days 0 Hours 0 Minutes	
+Left a VM to ess on call
+Functional Escalation performed to STOR Team Manager
+NOC is able to see the data on PSO Dashboard
+OSA and NOC verified and confirmed that MyDW is now accessible.	
+NOC resolved the incident.	

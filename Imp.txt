@@ -1,0 +1,90 @@
+206711930
+
+Storage Report:
+Hi Team,
+ Please find the Storage Disk Space Tickets created in the last 24 hours.
+User Quota Tickets: 
+There were no user Quota tickets created by NOC in the last 24 hours.
+Hello Team, 
+There were No Storage or User Quota tickets created by NOC in the last 24 hours.
+
+Mounted on-
+(Remove _ and add  / in movie name)
+/studio/<volume name>
+/studio/<qtree name>
+
+File System-
+vger/vol/<volume name>/<qtree name>
+
+
+
+
+
+Signiant:
+noc_sigack
+For Multiple Job failures-
+Signiant DWTV Job failure: Multiple job failures associated with
+For Single Job failure-
+Signiant DWTV Job failure:
+For connection test-
+ssh <DWA Agent>
+cd /usr/signiant/dds/bin/
+sudo ./dds_cnctst -udp -rate 1000000 <Vendor Agent>
+
+
+
+Grafana:
+df -h /studio/<movie name>/<qtree name>
+noc_dsack
+P1 DET Alert [DWA]:
+
+
+Backlog Report:
+Closing this ticket due to Backlog Risk, please refer 
+
+
+Zenoss nbcu.api alert:
+curl -s -k https://nbcu-api.dreamworks.net/api/health | python -mjson.tool
+
+
+EOS Dashboard:
+Available Cores is showing no data on EOS Dashboard
+EOS dashboard graphs are showing no data
+EOS Dashboard is down
+
+
+PSO Dashboard:
+PipeX for kfp4 is red on PSO Dashboard
+TROLLS 3 & KFP 4 is in Scheduled Downtime state on the PSO dashboard
+PSO Dashboard is not loading data for CORPS, Media and JoSE across all shows
+
+
+PSO Health Dashboard:
+BTR is in warn state on PSO Health Dashboard
+
+
+
+RACCESS Ticket 1st and 2nd Follow Up email:
+
+Hello User,
+
+Your VPN access has been provisioned.
+Please follow the DUO Registration Set-up Guide that has been sent to you in order to set up and register your mobile device.
+
+Regards
+Bhabajyoti Kalita
+Network Operation Center
+
+RACCESS Ticket 3rd Follow Up email:
+
+Hello User,
+
+Your VPN access has been provisioned.
+Please follow the DUO Registration Set-up Guide when you are trying to connect to VPN.
+
+We will mark this Jira ticket as resolved as we did not hear back from you. If you encounter any issues while connecting to VPN or mobile device not getting paired and if you wish to change the One Time Passcode Authentication mode then please get in touch with NOC or Help-desk Team.
+
+Thank you,
+Bhabajyoti Kalita
+Network Operations Center (NOC) Operator
+(818)695-5662
